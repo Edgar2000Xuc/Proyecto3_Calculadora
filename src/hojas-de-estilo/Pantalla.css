@@ -1,0 +1,18 @@
+.input {
+    width: 330px; /* Ancho del elemento */
+    height: 55px; /* Altura del elemento */
+    border-radius: 18px; /* Radio de borde redondeado */
+    margin: 0 auto; /* Centra horizontalmente */
+    margin-bottom: 20px; /* Margen inferior */
+    display: flex; /* Usa el modelo de caja flexible */
+    justify-content: flex-end; /* Justifica el contenido hacia la derecha */
+    align-items: center; /* Centra verticalmente el contenido */
+    font-weight: bold; /* Grosor de la fuente */
+    font-size: 30px; /* Tamaño de la fuente */
+    background-color: rgb(0, 247, 193); /* Color de fondo */
+    color: rgb(0, 0, 0); /* Color del texto */
+    padding: 11px 30px 11px 11px; /* Espaciado interno (arriba, derecha, abajo, izquierda) */
+    /* Separación pronunciada arriba */
+    border: 1.9px solid #ffffff; /* Borde con margen de 1px */
+    text-align: right; /* Alinea el texto a la derecha */
+}
